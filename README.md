@@ -8,3 +8,4 @@
 kiranlakshmi/kiranlakshmi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+Hi, l will do you real trading bot for you to gain more profit on your trade
